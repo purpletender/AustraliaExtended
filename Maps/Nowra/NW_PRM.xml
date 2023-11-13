@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+    <Map Type="Ground_TWY" Name="PRM21" Priority="3" Center="-34.948889+150.536944">
+        <Runway Name="03/21">
+            <Threshold Name="03" Position="-34.948839+150.536464" />
+            <Threshold Name="21" Position="-34.935658+150.552131" ExtendedCentrelineTrack="44.39" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="1" />
+        </Runway>
+        <Symbol Type="MalteseCross">
+            <Point>TORAG</Point>
+        </Symbol>
+        <Symbol Type="HollowTriangle">
+            <Point>-344525.0+1504554.0</Point>
+        </Symbol>
+    </Map>
+</Maps>

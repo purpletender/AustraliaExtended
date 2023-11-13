@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Ground_INF" Name="Holding_Points" Priority="0" Centre="-16.885833+145.755278">
+    <!--CLASS C-->
+    <!--CAIRNS (YBCS)-->
+    <Line Pattern="Solid" Width=".7">
+      <Point>-165307.48+1454505.0/-165307.04+1454505.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-165303.21+1454503.38/-165302.51+1454503.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-165248.55+1454456.75/-165247.88+1454456.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-165240.18+1454452.5/-165239.88+1454452.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-165214.59+1454448.63/-165213.85+1454448.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-165237.7+1454459.13/-165236.9+1454458.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-165300.71+1454509.5/-165259.91+1454509.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-165312.78+1454514.94/-165311.98+1454514.63</Point>
+    </Line>
+  </Map>
+</Maps>

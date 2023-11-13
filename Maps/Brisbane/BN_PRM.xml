@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+    <Map Type="Ground_TWY" Name="PRM19PROPS" Priority="3" Center="-27.384167+153.117500">
+        <Runway Name="01L/19R">
+            <Threshold Name="01L" Position="-27.383069+153.106803" />
+            <Threshold Name="19R" Position="-27.356544+153.121969" ExtendedCentrelineTrack="27.05" ExtendedCentrelineLength="18" ExtendedCentrelineTickInterval="1" />
+        </Runway>
+        <Runway Name="01R/19L">
+            <Threshold Name="01R" Position="-27.402797+153.118219" />
+            <Threshold Name="19L" Position="-27.374664+153.134306" ExtendedCentrelineTrack="27.04" ExtendedCentrelineLength="18" ExtendedCentrelineTickInterval="1" />
+        </Runway>
+        <Symbol Type="MalteseCross">
+            <Point>SAKBO</Point>
+            <Point>OGATU</Point>
+        </Symbol>
+        <Symbol Type="HollowTriangle">
+            <Point>OSOKO</Point>
+            <Point>BETSO</Point>
+        </Symbol>
+    </Map>
+    <Map Type="Ground_TWY" Name="PRM01PROPS" Priority="3" Center="-27.384167+153.117500">
+        <Runway Name="01L/19R">
+            <Threshold Name="01L" Position="-27.383069+153.106803" ExtendedCentrelineTrack="207.04" ExtendedCentrelineLength="18" ExtendedCentrelineTickInterval="1" />
+            <Threshold Name="19R" Position="-27.356544+153.121969" />
+        </Runway>
+        <Runway Name="01R/19L">
+            <Threshold Name="01R" Position="-27.402797+153.118219" ExtendedCentrelineTrack="207.04" ExtendedCentrelineLength="18" ExtendedCentrelineTickInterval="1" />
+            <Threshold Name="19L" Position="-27.374664+153.134306" />
+        </Runway>
+        <Symbol Type="MalteseCross">
+            <Point>GOGEX</Point>
+            <Point>LUTSI</Point>
+        </Symbol>
+        <Symbol Type="HollowTriangle">
+            <Point>GLENN</Point>
+            <Point>TANIK</Point>
+        </Symbol>
+    </Map>
+        <Map Type="Ground_TWY" Name="PRMCG14" Priority="3" Center="-27.384167+153.117500">
+        <Runway Name="14/32">
+            <Threshold Name="14" Position="-28.156511+153.500706" ExtendedCentrelineTrack="330.59" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+            <Threshold Name="32" Position="-28.172569+153.510919" />
+        </Runway>
+        <Symbol Type="MalteseCross">
+            <Point>REGOM</Point>
+        </Symbol>
+        <Symbol Type="HollowTriangle">
+            <Point>IRPOD</Point>
+        </Symbol>
+    </Map>
+</Maps>

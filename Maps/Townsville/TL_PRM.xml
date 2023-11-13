@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+    <Map Type="Ground_TWY" Name="PRM01" Priority="3" Center="-19.252500+146.765278">
+        <Runway Name="01/19">
+            <Threshold Name="01" Position="-19.258306+146.764722" ExtendedCentrelineTrack="204.16" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="1" />
+            <Threshold Name="19" Position="-19.238203+146.774217" />
+        </Runway>
+        <Symbol Type="MalteseCross">
+            <Point>VIMUG</Point>
+        </Symbol>
+        <Symbol Type="HollowTriangle">
+            <Point>SATCO</Point>
+        </Symbol>
+    </Map>
+</Maps>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+    <Map Type="Ground_TWY" Name="PRM14" Priority="3" Center="-34.948889+150.536944">
+        <Runway Name="14/32">
+            <Threshold Name="14" Position="-27.402669+151.737094" ExtendedCentrelineTrack="325.1" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="1" />
+            <Threshold Name="32" Position="-27.414881+151.746639" />
+        </Runway>
+        <Symbol Type="MalteseCross">
+            <Point>VETOP</Point>
+        </Symbol>
+        <Symbol Type="HollowTriangle">
+            <Point>NUTPA</Point>
+        </Symbol>
+    </Map>
+</Maps>
