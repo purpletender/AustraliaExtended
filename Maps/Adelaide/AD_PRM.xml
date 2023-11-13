@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+    <Map Type="Ground_TWY" Name="PRM23" Priority="3" Center="-34.945000+138.530556">
+        <Runway Name="05/23">
+            <Threshold Name="05" Position="-34.957650+138.518472" />
+            <Threshold Name="23" Position="-34.940619+138.543264" ExtendedCentrelineTrack="50.17" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="1" />
+        </Runway>
+        <Symbol Type="MalteseCross">
+            <Point>GUGTI</Point>
+        </Symbol>
+        <Symbol Type="HollowTriangle">
+            <Point>MOPRI</Point>
+            <Point>GULLY</Point>
+        </Symbol>
+    </Map>
+</Maps>
