@@ -977,7 +977,7 @@
         <Airport Name="YCFS" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Coffs Harbour Tower</Line>
+        <Line>Coffs Tower</Line>
         <Line>ATIS available on 130.3</Line>
         <Line>Charts - vats.im/pac/charts</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
@@ -1007,7 +1007,7 @@
         <Airport Name="YBHM" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Hamilton Island Tower</Line>
+        <Line>Hamilton Tower</Line>
         <Line>ATIS available on 128.35</Line>
         <Line>Charts - vats.im/pac/charts</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
@@ -1237,8 +1237,8 @@
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="YAMB" Visible="true" />
       </Strips>
-      <CFL QuickLevel="21000">
-        <AdditionalLevels>3400,3800,5100</AdditionalLevels>
+      <CFL QuickLevel="8000">
+        <AdditionalLevels>3400,3800,5100,20000</AdditionalLevels>
       </CFL>
       <ArrivalLists>
         <Airport Name="YAMB" />
@@ -1267,14 +1267,14 @@
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="YMES" Visible="true" />
       </Strips>
-      <CFL QuickLevel="21000">
+      <CFL QuickLevel="20000">
         <AdditionalLevels>1900,3400,4400</AdditionalLevels>
       </CFL>
       <ArrivalLists>
         <Airport Name="YMES" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>East Sale Approach</Line>
+        <Line>Sale Approach</Line>
         <Line>ATIS available on 125.4</Line>
         <Line>Charts - vats.im/pac/charts</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
@@ -1621,7 +1621,7 @@
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="YPTN" Visible="true" />
       </Strips>
-      <CFL QuickLevel="10000">
+      <CFL QuickLevel="18000">
         <AdditionalLevels>2300</AdditionalLevels>
       </CFL>
       <ArrivalLists>
@@ -1741,8 +1741,8 @@
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="YBOK" Visible="true" />
       </Strips>
-      <CFL QuickLevel="12500">
-        <AdditionalLevels>3700,4600</AdditionalLevels>
+      <CFL QuickLevel="6000">
+        <AdditionalLevels>3700,4600,12000</AdditionalLevels>
       </CFL>
       <ArrivalLists>
         <Airport Name="YBOK" />
@@ -1810,7 +1810,7 @@
         <Airport Name="YMLT" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Launceston Approach</Line>
+        <Line>Launy Approach</Line>
         <Line>ATIS available on 134.75</Line>
         <Line>Charts - vats.im/pac/charts</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
@@ -2374,24 +2374,24 @@
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="YMES" Visible="true" />
       </Strips>
-      <CFL QuickLevel="5000" />
+      <CFL QuickLevel="6000" />
       <ArrivalLists>
         <Airport Name="YMES" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>East Sale Tower</Line>
+        <Line>Sale Tower</Line>
         <Line>ATIS available on 125.4</Line>
         <Line>Charts - vats.im/pac/charts</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="ES_GND">
-        <Line>East Sale Ground</Line>
+        <Line>Sale Ground</Line>
         <Line>ATIS available on 125.4</Line>
         <Line>Charts - vats.im/pac/charts</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="ES_DEL">
-        <Line>East Sale Delivery</Line>
+        <Line>Sale Delivery</Line>
         <Line>ATIS available on 125.4</Line>
         <Line>Charts - vats.im/pac/charts</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
@@ -2730,7 +2730,7 @@
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="YBTL" Visible="true" />
       </Strips>
-      <CFL QuickLevel="5000" />
+      <CFL QuickLevel="18000" />
       <ArrivalLists>
         <Airport Name="YBTL" />
       </ArrivalLists>
@@ -2813,7 +2813,7 @@
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="YPDN" Visible="true" />
       </Strips>
-      <CFL QuickLevel="5000" />
+      <CFL QuickLevel="18000" />
       <ArrivalLists>
         <Airport Name="YPDN" />
       </ArrivalLists>
@@ -2972,7 +2972,7 @@
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="YPED" Visible="true" />
       </Strips>
-      <CFL QuickLevel="5000" />
+      <CFL QuickLevel="4000" />
       <ArrivalLists>
         <Airport Name="YPED" />
       </ArrivalLists>
@@ -3077,7 +3077,7 @@
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="YPEA" Visible="true" />
       </Strips>
-      <CFL QuickLevel="5000" />
+      <CFL QuickLevel="6000" />
       <ArrivalLists>
         <Airport Name="YPEA" />
       </ArrivalLists>
