@@ -8,7 +8,7 @@
     <ATIS url="https://atis.324529.xyz/" />
     <AreaQNH url="http://reg.bom.gov.au/products/reg/QNH.shtml#aus" Username="bomw0007" Password="aviation" />
     <AIP url="https://www.airservicesaustralia.com/aip/aip.asp" />
-    <AIP-Phraseogly url="https://vatsys.324529.xyz/AIP2403Phraseology.pdf" />
+    <AIP-Phraseogly url="https://vatsys.324529.xyz/AIPPhraseology.pdf" />
     <WXRadars url="http://www.bom.gov.au/australia/radar/" />
     <BOM url="http://www.bom.gov.au/aviation/" />
     <TFMS url="https://maestro.vatpac.org" />
