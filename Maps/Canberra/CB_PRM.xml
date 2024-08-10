@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+    <Map Type="Ground_TWY" Name="PRM35" Priority="3" Center="-35.306944+149.195000">
+        <Runway Name="17/35">
+            <Threshold Name="17" Position="-35.290628+149.194442" />
+            <Threshold Name="35" Position="-35.314808+149.194444" ExtendedCentrelineTrack="179.99" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="1" />
+        </Runway>
+        <Symbol Type="MalteseCross">
+            <Point>DAMKO</Point>
+        </Symbol>
+        <Symbol Type="HollowTriangle">
+            <Point>MENZI</Point>
+        </Symbol>
+    </Map>
+</Maps>

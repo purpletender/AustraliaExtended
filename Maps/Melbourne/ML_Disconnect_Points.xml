@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+    <Map Type="Ground_INF" Name="Disconnect_Points" Priority="-1" Center="-3740.4+14450.6">
+        <Label HasLeader="True" LabelOrientation="E" Alignment="Center" VerticalAlignment="Middle">
+            <Point Name="T1">-37.66538262477201+144.84949883177052</Point>
+        </Label>
+        <Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+            <Point Name="T2">-37.66544174650223+144.84872878867475</Point>
+        </Label>
+        <Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+            <Point Name="P3">-37.66698079760495+144.84811593324366</Point>
+        </Label>
+        <Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+            <Point Name="T0">-37.6658766758901+144.8512461929374</Point>
+        </Label>
+        <Label HasLeader="True" LabelOrientation="E" Alignment="Center" VerticalAlignment="Middle">
+            <Point Name="T10">-373957.0+1445108.0</Point>
+        </Label>
+        <Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+            <Point Name="E4">-37.66494111554882+144.85158809992302</Point>
+        </Label>        
+        <Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+            <Point Name="E2">-37.664613726344385+144.84861080091403</Point>
+        </Label>    
+        <Label HasLeader="True" LabelOrientation="E" Alignment="Center" VerticalAlignment="Middle">
+            <Point Name="E1">-37.66484268348369+144.84668064943534</Point>
+        </Label>  
+        <Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+            <Point Name="R2">-37.66633576459163+144.85356941532777</Point>
+        </Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="R3">-37.66688016168981+144.853686253842</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="R4">-37.6675156576542+144.853790700357</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="Q1">-37.666472637798925+144.85071726882862</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="Q3">-37.66674343371705+144.85076750663688</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="Q5">-37.66711648662132+144.85083608523095</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="Q8">-37.66761569162112+144.85089347010756</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="P3">-37.6669847298814+144.84812309993993</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="E" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="T3">-37.66639868042566+144.84712573253734</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="T5">-37.66647449709328+144.8465434738317</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="E" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="T6">-37.66656957403622+144.8457514569648</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="T11">-37.66665773927502+144.8450142730316</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="S1">-37.66618725987894+144.84377426426698</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="E" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="T8">-37.666868796092125+144.8431847030724</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="T9">-37.66694231406046+144.84258068907292</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A1">-37.66787394015033+144.84192307736717</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A2">-37.66808837761154+144.84196465160608</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A3">-37.66859741430832+144.84206003995234</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A4">-37.6689169828537+144.84211839469344</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A5">-37.669362708356054+144.84220350097124</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A6">-37.669747636134325+144.84227497506564</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="U1">-37.67057023118145+144.84317499686057</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="E" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="U2">-37.67049766074727+144.84379595656586</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="U3">-37.67012216921072+144.84570917373168</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="S8">-37.6713201109785+144.8445816565473</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="S7">-37.670929391737175+144.84451095020825</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="E" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="U0">-37.67074997835174+144.84163872199295</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="V1">-37.67020493228409+144.84026723990394</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="G1">-37.67203646583012+144.84344957718167</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="E" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="G2">-37.67198286468297+144.84407410802376</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="G3">-37.67207590651168+144.84554240318002</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A7">-37.67296110714611+144.84287358121534</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A8">-37.67318826787582+144.84291783766253</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A10">-37.67378450051615+144.84302980665785</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A11">-37.67401003044941+144.84307247197026</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A12">-37.67563194473945+144.84337329184078</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A13">-37.676299705623286+144.84349808992968</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A14">-37.67692890084236+144.843615845289</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A15">-37.6773655091602+144.84369663610957</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="A16">-37.679514108490345+144.84409867460627</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="J2">-37.678310022170905+144.84467061621314</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="E" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="J1">-37.67822935391438+144.845342509572</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="J4">-37.67736976165295+144.84697157543374</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="S12">-37.6767749051602+144.8457503546759</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="S" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="S14">-37.67598916716315+144.84560641781047</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="S11">-37.67536105254828+144.845487982202</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="Y1">-37.674738293628806+144.8440102565525</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="E" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="Y2">-37.67466681560275+144.84462359769088</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="W" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="Y3">-37.67447660715182+144.846245349218</Point>
+		</Label>
+		<Label HasLeader="True" LabelOrientation="N" Alignment="Center" VerticalAlignment="Middle">
+			<Point Name="S13">-37.67895313009032+144.84615910448255</Point>
+		</Label>
+	</Map>
+</Maps>

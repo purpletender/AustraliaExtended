@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Ground_INF" Name="Holding_Points" Priority="0" Center="-27.384167+153.117500">
+    <!--CLASS C-->
+    <!--BRISBANE (YBBN)-->
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272411.84+1530700.31/-272410.92+1530700.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272345.45+1530716.06/-272344.37+1530716.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272326.26+1530725.75/-272325.48+1530725.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272308.31+1530735.06/-272308.27+1530736.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272304.64+1530739.31/-272303.55+1530740.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272251.07+1530747.13/-272249.93+1530747.81</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272224.76+1530801.25/-272224.02+1530801.94</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272302.13+1530627.19/-272301.36+1530627.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272259.36+1530628.75/-272258.52+1530629.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272242.28+1530638.5/-272241.46+1530638.94</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272239.4+1530640.13/-272239.35+1530641.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272229.29+1530645.94/-272228.46+1530646.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272226.38+1530647.56/-272226.34+1530648.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272216.11+1530654.25/-272215.5+1530653.81</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272210.41+1530656.69/-272210.38+1530657.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272200.2+1530703.44/-272159.52+1530703.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272157.41+1530704.19/-272156.72+1530704.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272147.17+1530710.88/-272146.51+1530710.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272144.43+1530711.63/-272143.62+1530712.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272129.91+1530719.88/-272129.39+1530720.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272126.66+1530721.75/-272126.16+1530722.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272347.93+1530721.94/-272347.15+1530722.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272306.96+1530745.31/-272306.51+1530745.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-272253.57+1530752.94/-272252.7+1530753.5</Point>
+    </Line>
+    <!--GOLD COAST (YBCG)-->
+    <Line Pattern="Solid" Width=".7">
+      <Point>-281032.3+1533050.75/-281031.52+1533050.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-281028.18+1533048.13/-281027.34+1533047.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-281009.48+1533036.19/-281008.69+1533035.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-281006.62+1533033.81/-281006.42+1533033.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-280955.93+1533028.25/-280955.1+1533027.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-280951.2+1533027.44/-280950.82+1533028.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-280945.8+1533028.19/-280945.33+1533028.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-280948.42+1533022.13/-280947.66+1533021.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-280948.24+1533022.69/-280947.34+1533022.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-280941.41+1533021.13/-280941.03+1533021.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-280939.37+1533016.44/-280939.16+1533016.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-280922.6+1533006.38/-280921.8+1533005.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-281010.14+1533024.5/-281009.83+1533024.56</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-281009.85+1533027.56/-281009.59+1533027.44</Point>
+    </Line>
+  </Map>
+</Maps>
