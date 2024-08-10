@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Ground_INF" Name="Holding_Points" Priority="0" Center="-12.414722+130.876667">
+    <!--CLASS C-->
+    <!--DARWIN (YPDN)-->
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122512.76+1305338.78/-122512.31+1305337.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122500.99+1305303.72/-122500.76+1305303.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122455.21+1305246.59/-122454.97+1305245.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122449.42+1305229.34/-122449.18+1305228.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122451.88+1305216.88/-122451.18+1305217.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122505.49+1305215.88/-122505.21+1305215.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122517.94+1305212.97/-122517.45+1305212.97</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122450.55+1305211.72/-122450.29+1305211.59/-122449.43+1305211.94</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122442.96+1305209.41/-122442.96+1305210.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122437.63+1305154.41/-122437.39+1305153.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122437.08+1305152.75/-122436.83+1305152.59</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122434.79+1305210.16/-122434.79+1305209.41</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122432.57+1305211.88/-122431.85+1305211.75</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122434.46+1305215.81/-122433.77+1305215.81</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122432.15+1305215.81/-122431.84+1305215.81</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122438.63+1305220.81/-122438.51+1305220.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122442.35+1305231.88/-122442.11+1305231.16</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-122448.14+1305249.06/-122447.89+1305248.28</Point>
+    </Line>
+  </Map>
+</Maps>

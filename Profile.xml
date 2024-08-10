@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Profile Name="Australia" FullName="Eurocat Australia (YMMM/YBBB)">
-	<Version AIRAC="2410" Revision="a" PublishDate="20241003" UpdateURL="https://vatsys.sawbe.com/downloads/data/Australia" />
+<Profile Name="AustraliaExtended" FullName="Eurocat Australia (YMMM/YBBB)">
+	<Version AIRAC="2410" Revision="a1" PublishDate="20241004" UpdateURL="https://vatsys.324529.xyz/downloads/data/AustraliaExtended" />
 	<Servers>
 		<VATSIMStatus url="https://status.vatsim.net/" />
 		<GRIB url="https://sawbe.com/GRIB/" />

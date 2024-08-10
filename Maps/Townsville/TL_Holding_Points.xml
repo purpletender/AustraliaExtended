@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Ground_INF" Name="Holding_Points" Priority="0" Center="-19.252500+146.765278">
+    <!--CLASS C-->
+    <!--TOWNSVILLE (YBTL)-->
+    <Line Pattern="Solid" Width=".7">
+      <Point>-191523.95+1464523.94/-191523.48+1464524.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-191526.74+1464545.63/-191526.12+1464545.25/-191525.63+1464545.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-191529.7+1464547.19/-191529.23+1464547.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-191531.55+1464556.19/-191530.2+1464556.88</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-191511.13+1464557.5/-191510.28+1464557.31</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-191513.47+1464604.69/-191512.6+1464605.19</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-191451.47+1464615.5/-191451.04+1464615.69</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-191448.38+1464608.25/-191447.95+1464608.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-191433.2+1464615.13/-191432.76+1464615.63</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-191437.33+1464621.88/-191436.84+1464622.06</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-191419.4+1464630.31/-191418.96+1464630.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-191416.43+1464623.38/-191416.02+1464623.5</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-191501.79+1464610.25/-191501.49+1464610.38</Point>
+    </Line>
+  </Map>
+</Maps>

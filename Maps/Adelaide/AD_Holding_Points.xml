@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Ground_INF" Name="Holding_Points" Priority="0" Center="-34.945000+138.530556">
+    <!--CLASS C-->
+    <!--ADELAIDE (YPAD)-->
+    <Line Pattern="Solid" Width=".7">
+      <Point>-345728.45+1383059.59/-345727.85+1383100.44</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-345714.78+1383119.59/-345714.15+1383120.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-345706.7+1383129.53/-345706.23+1383130.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-345654.73+1383147.56/-345654.98+1383148.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-345644.52+1383143.31/-345644.95+1383144.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-345640.52+1383147.06/-345641.13+1383148.0</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-345643.63+1383152.5/-345643.89+1383153.38</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-345643.8+1383204.69/-345643.23+1383205.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-345647.6+1383210.56/-345647.0+1383211.13</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-345655.77+1383214.84/-345655.36+1383214.09</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-345624.63+1383232.53/-345624.02+1383233.47</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-345626.89+1383121.84/-345626.29+1383121.25</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-345648.76+1383151.19/-345648.51+1383150.34</Point>
+    </Line>
+    <!--EDINBURGH (YPED)-->
+    <Line Pattern="Solid" Width=".7">
+      <Point>-344302.83+1383652.0/-344302.34+1383652.03</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-344244.45+1383659.56/-344243.62+1383700.34</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-344209.88+1383701.53/-344209.4+1383701.66</Point>
+    </Line>
+    <Line Pattern="Solid" Width=".7">
+      <Point>-344141.22+1383706.75/-344140.73+1383706.94</Point>
+    </Line>
+  </Map>
+</Maps>
